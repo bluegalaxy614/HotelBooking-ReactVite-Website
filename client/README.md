@@ -5,7 +5,7 @@
 
 Hotel-Booking is a Static React-Vite Frontend Website, using React.js, React-Compotents, React-context API, Hooks, TailwindCSS, React Date Picker, Responsive Mobile Menu, Swiper Slider, Data Loading Spinner Effect, Scroll To Top Component, when page or location changes and deploy on Netlify.
 
-**Note: To check this web app live, click here:** https://hotel-booking-arnob.netlify.app
+**Note: To check this web app live, click here:** https://hotel-booking-react-vite-website.vercel.app/
 
 ## To Install Dependences
 
